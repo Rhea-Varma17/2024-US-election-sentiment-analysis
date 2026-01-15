@@ -12,11 +12,12 @@ to study polarization, candidate-centric discourse, and sentiment dynamics.
 ---
 
 ## Repository Structure
-`
+```
 .
 ├── 01_preprocessing.ipynb
 ├── 02_sentiment_and_topic_analysis.ipynb
-└── README.md`
+└── README.md
+```
 
 
 ---
@@ -61,6 +62,11 @@ To reproduce the analysis:
 1. Download the dataset from the original repository linked above
 2. Extract the relevant CSV file
 3. Place it in the root directory as:
+
+---
+## Citation
+
+If you use this repository, please cite the original dataset and this analysis accordingly.
 
 ---
 
